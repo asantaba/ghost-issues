@@ -17,3 +17,4 @@ estas pruebas se hicieron tomando como base las realizadas previamente para la v
 ## Incidencias encontradas
 - [Pruebas manuales](https://github.com/asantaba/ghost-issues/issues)
 - [Pruebas de validacion de datos](https://github.com/anderson0365/randomValueTest/issues)
+- [Diferencias visuales](https://github.com/andres-benavides-andes/escenariosPruebasE2E/issues/2)
