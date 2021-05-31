@@ -20,6 +20,6 @@ estas pruebas se hicieron tomando como base las realizadas previamente para la v
 - [Diferencias visuales](https://github.com/andres-benavides-andes/escenariosPruebasE2E/issues)
 
 ## Retrospectiva de estrella:
-- [Aqui](https://docs.google.com/presentation/d/1hQ-Wx41O9Sw-PNtFvuBwNcWGxkuOgJhIXou5NZDQhWQ/edit#slide=id.gdd6f2d48e1_0_0)
+- [Aqui](https://docs.google.com/presentation/d/1hQ-Wx41O9Sw-PNtFvuBwNcWGxkuOgJhIXou5NZDQhWQ/edit?usp=sharing)
 ### Video
 - [Aqui](https://youtu.be/5relmI9SsOg)
