@@ -1,6 +1,6 @@
 # Estrategia de pruebas:
 
-Para ver la estartegia de pruebas para la semana 8 de clic [aquí](https://drive.google.com/file/d/1zUkMoHK-1Ukpo-ktSir54X3wmQXuQ9bJ/view?usp=sharing).
+Para ver la estrategia de pruebas para las 8 semanas de clic [aquí](https://drive.google.com/file/d/1zUkMoHK-1Ukpo-ktSir54X3wmQXuQ9bJ/view?usp=sharing).
 
 ## Pruebas de reconocimiento manuales
 
