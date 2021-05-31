@@ -14,3 +14,6 @@ estas pruebas se hicieron tomando como base las realizadas previamente para la v
 - [Pruebas de regresión VRT](https://github.com/andres-benavides-andes/escenariosPruebasCypressE2E)
 - [Pruebas con generación de datos](https://github.com/anderson0365/randomValueTest)
 
+## Incidencias encontradas
+- [Pruebas manuales](https://github.com/asantaba/ghost-issues/issues)
+- [Pruebas de validacion de datos](https://github.com/anderson0365/randomValueTest/issues)
