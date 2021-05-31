@@ -18,3 +18,6 @@ estas pruebas se hicieron tomando como base las realizadas previamente para la v
 - [Pruebas manuales](https://github.com/asantaba/ghost-issues/issues)
 - [Pruebas de validacion de datos](https://github.com/anderson0365/randomValueTest/issues)
 - [Diferencias visuales](https://github.com/andres-benavides-andes/escenariosPruebasE2E/issues)
+
+## Retrospectiva de estrella:
+- [Aqui](https://docs.google.com/presentation/d/1hQ-Wx41O9Sw-PNtFvuBwNcWGxkuOgJhIXou5NZDQhWQ/edit#slide=id.gdd6f2d48e1_0_0)
