@@ -3,7 +3,8 @@
 ## Distribución de Esfuerzo
 Los ingenieros automatizadores senior ejecutarán las pruebas como se describe a continuación. Durante las pruebas ejecutadas, todas las incidencias encontradas deberán ser reportadas en el repositorio de GitHub creado para las pruebas. Los repositorios listados como soporte para las pruebas a ejecutar, ya cuentan con algunas incidencias reportadas en ellos.
 ### Primera semana: 
-El repositorio donde se encuentra el inventario de las pruebas  manuales y los issues encontrados en esta etapa es el siguiente: https://github.com/asantaba/ghost-issues <br>
+El repositorio donde se encuentra el inventario de las pruebas  manuales y los issues encontrados en esta etapa es el siguiente: https://github.com/asantaba/ghost-issues. En el, el archvo https://github.com/asantaba/ghost-issues/blob/main/inventario-pruebas-exploratorias-ghost.ods registra el inventario de pruebas manuales elaboradas en la primera semana. <br>
+
 1. Configuración de máquinas virtuales para pruebas: Los ingenieros crean una máquina virtual con el sistema operativo Ubuntu 20.04, y cargan sobre esta todos los programas necesarios para ejecutar las pruebas: ghost v3.42.5, ghost v3.3.0 (para VRT), se instala node y npm, y se carga el repositorio que contiene los scripts y la programación de las pruebas de la versión anterior de ghost bajo pruebas (git clone). Se instalan las librerías necesarias y se comprueba que todo esté ejecutándose correctamente sobre la máquina (Cada ingeniero dedicará 2 horas para hacer esta labor sobre sus máquinas). En este tiempo, a uno de los ingenieros se le encarga la labor de inicializar en GitHub un repositorio para las pruebas.
 2. Pruebas de reconocimiento manuales, a nivel de sistema, tipo caja negra, sobre ghost v3.42.5. Los ingenieros dedican el resto de las horas de la semana a esta labor (6 horas por cada ingeniero automatizador). 
 ### Segunda semana:
